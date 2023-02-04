@@ -110,3 +110,5 @@ It's not possible to read (`/get`) or write (`/set`) this value.
 The minimal value is `0` and the maximum value is `255`.
 The unit of this value is `lqi`.
 
+### OTA
+At this point OTA doesn't work on this device. However there's multiple updates available 
